@@ -137,7 +137,11 @@ table {
 				<img src="An4.jpg" alt="war movie" style="width:200px; heigh:50px">
 				</a>
 				</td>
-					<td><img src="An4.jpg" alt="war movie" style="width:200px; heigh:50px"></td>
+					<td>
+					<a href="http://localhost/Assignment/js-assignment/MovieDashbord/Madagascar1.php">
+					<img src="An6.jpg" alt="war movie" style="width:200px; heigh:50px">
+					</a>
+					</td>
 			</tr>
 		
 		</table>

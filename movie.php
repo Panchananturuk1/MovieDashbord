@@ -119,11 +119,24 @@ table {
 				<td>
 					<a href="http://localhost/Assignment/js-assignment/MovieDashbord/crood.php">
 					<img src="An1.jpg" alt="war movie" style="width:200px; heigh:50px;">
+					</a>
 					</td>
+				
+				<td>
+					<a href="http://localhost/Assignment/js-assignment/MovieDashbord/spongbob.php">
+					<img src="An5.jpg" alt="jOHN Wick" style="width:200px; heigh:50px">
+					</a>
 				</td>
-				<td><img src="An5.jpg" alt="jOHN Wick" style="width:200px; heigh:50px"></td>
-				<td><img src="An3.jpg" alt="war movie" style="width:200px; heigh:50px"></td>	
-				<td><img src="An4.jpg" alt="war movie" style="width:200px; heigh:50px"></td>
+				<td>
+					<a href="http://localhost/Assignment/js-assignment/MovieDashbord/clara.php">
+					<img src="An3.jpg" alt="war movie" style="width:200px; heigh:50px">
+					</a>
+				</td>	
+				<td>
+				<a href="http://localhost/Assignment/js-assignment/MovieDashbord/toystory.php">
+				<img src="An4.jpg" alt="war movie" style="width:200px; heigh:50px">
+				</a>
+				</td>
 					<td><img src="An4.jpg" alt="war movie" style="width:200px; heigh:50px"></td>
 			</tr>
 		

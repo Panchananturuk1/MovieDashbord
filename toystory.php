@@ -18,6 +18,8 @@ body, html {
 }
 
 
+
+
 .topnav {
   overflow: hidden;
   background-color: #e9e9e9;
@@ -87,7 +89,7 @@ body, html {
   <div   style="margin-left:5%; border: 1px solid black; padding: 5px;" >
 	
 	<div >
-	<img src="An1.jpg" alt="" style="width:100%; height:500px;" /> </div>
+	<img src="An4.jpg" alt="" style="width:100%; height:500px;" /> </div>
 	</div>
 	
 	</div >
@@ -101,30 +103,30 @@ body, html {
 	 <table  width = "100%">
          <thead>
             <tr>
-               <td colspan = "4"><h1 style="font-size:xxx-large;">The Crood: A New Age  (3) </h1></td>
+               <td colspan = "4"><h1 style="font-size:xxx-large;">Toy Story (3) </h1></td>
             </tr>
          </thead>
          
          
          <tbody>
             <tr>
-               <td>Year 2017</td>
-               <td>|Length: 1 Hour|</td>
-               <td>Joel Crawford</td>
+               <td>Year 1995  </td>
+               <td>|Length: 2 Hour|</td>
+               <td>	John Lasseter </td>
             </tr>
          </tbody>
 		 
       </table>
 	  
 	  <div>
-	  <p style="text-align:justify;">The Croods: A New Age (also known as The Croods 2) is 
-	  a 2020 American computer-animated adventure comedy film produced by DreamWorks Animation
-	  and distributed by Universal Pictures. The sequel to The Croods (2013), the film is directed
-	  by Joel Crawford (in his feature directorial debut) with a screenplay penned by Dan Hageman,
-	  Kevin Hageman, Paul Fisher, and Bob Logan from a story by the original directors Kirk DeMicco
-	  and Chris Sanders.[4] Nicolas Cage, Emma Stone, Ryan Reynolds, Catherine Keener, Clark Duke, 
-	  and Cloris Leachman reprise their roles from the first film alongside new additions to the cast
-	  including Peter Dinklage, Leslie Mann, and Kelly Marie Tran. </p>
+	  <p style="text-align:justify;">Toy Story is a 1995 American computer-animated comedy film produced
+	  by Pixar Animation Studios and released by Walt Disney Pictures. The first installment in the Toy
+	  Story franchise, it was the first entirely computer-animated feature film, as well as the first feature
+	  film from Pixar. The film was directed by John Lasseter (in his feature directorial debut), and written
+	  by Joss Whedon, Andrew Stanton, Joel Cohen, and Alec Sokolow from a story by Lasseter, Stanton, Pete Docter,
+	  and Joe Ranft. The film features music by Randy Newman, was produced by Bonnie Arnold and Ralph Guggenheim,
+	  and was executive-produced by Steve Jobs and Edwin Catmull. The film features the voices of Tom Hanks, 
+	  Tim Allen, Don Rickles,  </p>
 	  </div>
 	  
 	</div>

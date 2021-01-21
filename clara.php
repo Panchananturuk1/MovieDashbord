@@ -18,6 +18,8 @@ body, html {
 }
 
 
+
+
 .topnav {
   overflow: hidden;
   background-color: #e9e9e9;
@@ -87,7 +89,7 @@ body, html {
   <div   style="margin-left:5%; border: 1px solid black; padding: 5px;" >
 	
 	<div >
-	<img src="An1.jpg" alt="" style="width:100%; height:500px;" /> </div>
+	<img src="An3.jpg" alt="" style="width:100%; height:500px;" /> </div>
 	</div>
 	
 	</div >
@@ -101,30 +103,25 @@ body, html {
 	 <table  width = "100%">
          <thead>
             <tr>
-               <td colspan = "4"><h1 style="font-size:xxx-large;">The Crood: A New Age  (3) </h1></td>
+               <td colspan = "4"><h1 style="font-size:xxx-large;">Clara (3) </h1></td>
             </tr>
          </thead>
          
          
          <tbody>
             <tr>
-               <td>Year 2017</td>
-               <td>|Length: 1 Hour|</td>
-               <td>Joel Crawford</td>
+               <td>Year 2019 </td>
+               <td>|Length: 2 Hour|</td>
+               <td>	Tim Hill </td>
             </tr>
          </tbody>
 		 
       </table>
 	  
 	  <div>
-	  <p style="text-align:justify;">The Croods: A New Age (also known as The Croods 2) is 
-	  a 2020 American computer-animated adventure comedy film produced by DreamWorks Animation
-	  and distributed by Universal Pictures. The sequel to The Croods (2013), the film is directed
-	  by Joel Crawford (in his feature directorial debut) with a screenplay penned by Dan Hageman,
-	  Kevin Hageman, Paul Fisher, and Bob Logan from a story by the original directors Kirk DeMicco
-	  and Chris Sanders.[4] Nicolas Cage, Emma Stone, Ryan Reynolds, Catherine Keener, Clark Duke, 
-	  and Cloris Leachman reprise their roles from the first film alongside new additions to the cast
-	  including Peter Dinklage, Leslie Mann, and Kelly Marie Tran. </p>
+	  <p style="text-align:justify;">A girl named Clara lives in an amazing fairy world
+	  inhabited by dwarfs, dragons and sorcerers. Astonishing adventures await Clara and
+	  her friends and also the future of the whole world will fall into her hands. </p>
 	  </div>
 	  
 	</div>

@@ -87,8 +87,17 @@ table {
 					<img src="A1.jpg" alt="war movie" style="width:200px; heigh:50px;">
 					</a>
 				</td>
-				<td><img src="A3.jpg" alt="jOHN Wick" style="width:200px; heigh:50px"></a></td>
-				<td><img src="A4.jpg" alt="war movie" style="width:200px; heigh:50px"></td>	
+				<td>
+					<a href="http://localhost/Assignment/js-assignment/MovieDashbord/priest.php">
+						<img src="A3.jpg" alt="jOHN Wick" style="width:200px; heigh:50px">
+					</a>
+				</td>
+				<td>
+				<a href="http://localhost/Assignment/js-assignment/MovieDashbord/gamer.php">
+					<img src="A4.jpg" alt="war movie" style="width:200px; heigh:50px">
+					</a>
+				</td>	
+				
 				<td><img src="A2.jpg" alt="war movie" style="width:200px; heigh:50px"></td>
 				<td><img src="A2.jpg" alt="war movie" style="width:200px; heigh:50px"></td>	
 									

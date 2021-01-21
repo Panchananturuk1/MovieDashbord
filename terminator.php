@@ -71,19 +71,7 @@ body, html {
   
 </div>
 
-	<div style="width:500px; float:left;">
-	
-  <div   style="margin-left:5%; border: 1px solid black; padding: 5px;" >
-	
-	<div >
-	<img src="A3.jpg" alt="" style="width:100%; height:500px;" /> </div>
-	</div>
-	
-	</div >
-	
-	
-	
- <div style="float:right; width:200px;  margin-top:7%; ">
+<div style="float:right; width:200px;  margin-top:7%; ">
 				
 			
 <span class="fa fa-star checked"></span>
@@ -93,49 +81,56 @@ body, html {
 <span class="fa fa-star"></span>
 
 	  </div>
+	  
+	  <div style="margin-top:7%;">
+
+	<div style="width:500px; float:left;">
+	
+  <div   style="margin-left:5%; border: 1px solid black; padding: 5px;" >
+	
+	<div >
+	<img src="A5.jpg" alt="" style="width:100%; height:500px;" /> </div>
+	</div>
+	
+	</div >
 	
 	
-	<div style="float:left; width:40%; margin-top:7%; margin-left:2%;">
+	
+	<div style="float:left; width:40%;  margin-left:2%;">
 	
 	 
 	
 	 <table  width = "100%">
          <thead>
             <tr>
-               <td colspan = "4">Priest (Rating)</td>
+               <td colspan = "4"><h1 style="font-size:xxx-large;">The Terminator (3) </h1></td>
             </tr>
          </thead>
          
          
          <tbody>
             <tr>
-               <td>Year 2011</td>
+               <td>Year 1984 </td>
                <td>|Length: 3 Hour|</td>
-               <td>Siddharth Anand</td>
+               <td>	James Cameron</td>
             </tr>
          </tbody>
 		 
       </table>
 	  
 	  <div>
-	  <p style="text-align:justify;">Priest is a 2011 American action horror film directed by Scott Stewart and
-	  stars Paul Bettany as the title character.[2][3] It is loosely based on the Korean comic of the same name 
-	  by Hyung Min-woo. In an alternate universe, humanity and vampires have warred for centuries. After the last
-	  Vampire War, a veteran Warrior Priest lives in obscurity until his niece (Lily Collins) is kidnapped by vampires.
-
-The film was released on May 13, 2011. The film earned over $78 million at the box office against a $60 million production 
-budget, but it was panned by critics, who praised the film's visual style and art direction while criticising the movie's use
- of genre clichés, writing, acting, editing and action scenes — although, some of its action scenes were praised. </p>
+	  <p style="text-align:justify;">The Terminator is a 1984 American science fiction film directed by James Cameron.
+	  It stars Arnold Schwarzenegger as the Terminator, a cyborg assassin sent back in time from 2029 to 1984 to kill 
+	  Sarah Connor (Linda Hamilton), whose son will one day become a savior against machines in a post-apocalyptic future.
+	  Michael Biehn plays Kyle Reese, a soldier sent back in time to protect Sarah. The screenplay is credited to Cameron
+	  and producer Gale Anne Hurd, while co-writer William Wisher Jr. received a credit for additional dialogue. Executive
+	  producers John Daly and Derek Gibson of Hemdale Film Corporation were instrumental in financing and production. </p>
 	  </div>
-	  
-	  
-
-	  
-	  
 	  
 	</div>
 	
 	</div>
+
 </body>
 
 </html>

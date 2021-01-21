@@ -72,7 +72,7 @@ body, html {
 </div>
 
 	<div style="width:500px; float:left;">
-	<center> <h1 style="margin-left:5%;">WAR</h1> </center>
+	
   <div   style="margin-left:5%; border: 1px solid black; padding: 5px;" >
 	
 	<div >

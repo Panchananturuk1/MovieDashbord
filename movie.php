@@ -98,9 +98,16 @@ table {
 					</a>
 				</td>	
 				
-				<td><img src="A2.jpg" alt="war movie" style="width:200px; heigh:50px"></td>
-				<td><img src="A2.jpg" alt="war movie" style="width:200px; heigh:50px"></td>	
-									
+				<td>
+				<a href="http://localhost/Assignment/js-assignment/MovieDashbord/johnwick1.php">
+					<img src="A2.jpg" alt="war movie" style="width:200px; heigh:50px">
+					</td>
+				</a>
+				<td>
+					<a href="http://localhost/Assignment/js-assignment/MovieDashbord/terminator.php">
+					<img src="A5.jpg" alt="war movie" style="width:200px; heigh:50px">
+					</a>
+				</td>				
 			</tr>
 		
 		</table>
@@ -110,7 +117,9 @@ table {
 			<tr>
 				<h1 style="margin-left:4%">Animation</h1>
 				<td>
+					<a href="http://localhost/Assignment/js-assignment/MovieDashbord/crood.php">
 					<img src="An1.jpg" alt="war movie" style="width:200px; heigh:50px;">
+					</td>
 				</td>
 				<td><img src="An5.jpg" alt="jOHN Wick" style="width:200px; heigh:50px"></td>
 				<td><img src="An3.jpg" alt="war movie" style="width:200px; heigh:50px"></td>	
@@ -119,9 +128,7 @@ table {
 			</tr>
 		
 		</table>
-		
-		
-		
+
 		<table style="margin-left:0%">
 			<tr>
 				<h1 style="margin-left:4%">Adventure</h1>

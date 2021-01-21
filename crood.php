@@ -18,8 +18,6 @@ body, html {
 }
 
 
-
-
 .topnav {
   overflow: hidden;
   background-color: #e9e9e9;
@@ -71,19 +69,7 @@ body, html {
   
 </div>
 
-	<div style="width:500px; float:left;">
-	
-  <div   style="margin-left:5%; border: 1px solid black; padding: 5px;" >
-	
-	<div >
-	<img src="A3.jpg" alt="" style="width:100%; height:500px;" /> </div>
-	</div>
-	
-	</div >
-	
-	
-	
- <div style="float:right; width:200px;  margin-top:7%; ">
+<div style="float:right; width:200px;  margin-top:7%; ">
 				
 			
 <span class="fa fa-star checked"></span>
@@ -93,49 +79,58 @@ body, html {
 <span class="fa fa-star"></span>
 
 	  </div>
+	  
+	  <div style="margin-top:7%;">
+
+	<div style="width:500px; float:left;">
+	
+  <div   style="margin-left:5%; border: 1px solid black; padding: 5px;" >
+	
+	<div >
+	<img src="A2.jpg" alt="" style="width:100%; height:500px;" /> </div>
+	</div>
+	
+	</div >
 	
 	
-	<div style="float:left; width:40%; margin-top:7%; margin-left:2%;">
+	
+	<div style="float:left; width:40%;  margin-left:2%;">
 	
 	 
 	
 	 <table  width = "100%">
          <thead>
             <tr>
-               <td colspan = "4">Priest (Rating)</td>
+               <td colspan = "4"><h1 style="font-size:xxx-large;">The Crood: A New Age  (3) </h1></td>
             </tr>
          </thead>
          
          
          <tbody>
             <tr>
-               <td>Year 2011</td>
-               <td>|Length: 3 Hour|</td>
-               <td>Siddharth Anand</td>
+               <td>Year 2017</td>
+               <td>|Length: 1 Hour|</td>
+               <td>Joel Crawford</td>
             </tr>
          </tbody>
 		 
       </table>
 	  
 	  <div>
-	  <p style="text-align:justify;">Priest is a 2011 American action horror film directed by Scott Stewart and
-	  stars Paul Bettany as the title character.[2][3] It is loosely based on the Korean comic of the same name 
-	  by Hyung Min-woo. In an alternate universe, humanity and vampires have warred for centuries. After the last
-	  Vampire War, a veteran Warrior Priest lives in obscurity until his niece (Lily Collins) is kidnapped by vampires.
-
-The film was released on May 13, 2011. The film earned over $78 million at the box office against a $60 million production 
-budget, but it was panned by critics, who praised the film's visual style and art direction while criticising the movie's use
- of genre clichés, writing, acting, editing and action scenes — although, some of its action scenes were praised. </p>
+	  <p style="text-align:justify;">The Croods: A New Age (also known as The Croods 2) is 
+	  a 2020 American computer-animated adventure comedy film produced by DreamWorks Animation
+	  and distributed by Universal Pictures. The sequel to The Croods (2013), the film is directed
+	  by Joel Crawford (in his feature directorial debut) with a screenplay penned by Dan Hageman,
+	  Kevin Hageman, Paul Fisher, and Bob Logan from a story by the original directors Kirk DeMicco
+	  and Chris Sanders.[4] Nicolas Cage, Emma Stone, Ryan Reynolds, Catherine Keener, Clark Duke, 
+	  and Cloris Leachman reprise their roles from the first film alongside new additions to the cast
+	  including Peter Dinklage, Leslie Mann, and Kelly Marie Tran. </p>
 	  </div>
-	  
-	  
-
-	  
-	  
 	  
 	</div>
 	
 	</div>
+
 </body>
 
 </html>

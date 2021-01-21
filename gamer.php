@@ -71,8 +71,21 @@ body, html {
   
 </div>
 
+<div style="float:right; width:200px;  margin-top:7%; ">
+				
+			
+<span class="fa fa-star checked"></span>
+<span class="fa fa-star checked"></span>
+<span class="fa fa-star checked"></span>
+<span class="fa fa-star"></span>
+<span class="fa fa-star"></span>
+
+	  </div>
+
+	<div style="margin-top:7%;">
+
 	<div style="width:500px; float:left;">
-	<center> <h1 style="margin-left:5%;">WAR</h1> </center>
+	
   <div   style="margin-left:5%; border: 1px solid black; padding: 5px;" >
 	
 	<div >
@@ -83,26 +96,14 @@ body, html {
 	
 	
 	
- <div style="float:right; width:200px;  margin-top:7%; ">
-				
-			
-<span class="fa fa-star checked"></span>
-<span class="fa fa-star checked"></span>
-<span class="fa fa-star checked"></span>
-<span class="fa fa-star"></span>
-<span class="fa fa-star"></span>
-
-	  </div>
-	
-	
-	<div style="float:left; width:40%; margin-top:7%; margin-left:2%;">
+	<div style="float:left; width:40%;  margin-left:2%;">
 	
 	 
 	
 	 <table  width = "100%">
          <thead>
             <tr>
-               <td colspan = "4">Gamer (3)</td>
+               <td colspan = "4"><h1 style="font-size:xxx-large;">Gamer (3)</h1></td>
             </tr>
          </thead>
          
@@ -125,11 +126,6 @@ body, html {
 	  Butler and Lerman, it also stars Michael C. Hall, Ludacris, Amber Valletta, Terry Crews,
 	  Alison Lohman, John Leguizamo, Sam Witwer and Zoë Bell. </p>
 	  </div>
-	  
-	  
-
-	  
-	  
 	  
 	</div>
 	

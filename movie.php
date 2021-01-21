@@ -90,7 +90,6 @@ table {
 				<td><img src="A4.jpg" alt="war movie" style="width:200px; heigh:50px"></td>	
 				<td><img src="A2.jpg" alt="war movie" style="width:200px; heigh:50px"></td>
 				<td><img src="A2.jpg" alt="war movie" style="width:200px; heigh:50px"></td>	
-					<td><img src="A2.jpg" alt="war movie" style="width:200px; heigh:50px"></td>	
 									
 			</tr>
 		
@@ -137,15 +136,15 @@ table {
 				</td>
 				<td><img src="An5.jpg" alt="jOHN Wick" style="width:200px; heigh:50px"></td>
 				<td><img src="An3.jpg" alt="war movie" style="width:200px; heigh:50px"></td>	
-				<td><img src="An4.jpg" alt="war movie" style="width:200px; heigh:50px"></td>								
+				<td><img src="An4.jpg" alt="war movie" style="width:200px; heigh:50px"></td>
+				<td><img src="An4.jpg" alt="war movie" style="width:200px; heigh:50px"></td>
 			</tr>
 		
 		</table>
 		
-		
-		
 	</div>
 
+</div>
 </div>
 
 </body>

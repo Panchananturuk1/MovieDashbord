@@ -48,12 +48,14 @@ body, html {
 
 .checked {
   color: orange;
+  width:30px;
+  height:20px;
 </style>
 
 </head>
 
 <body >
- <div class="" style="float:left; background-color:blue; width:100%; height:5%">
+ <div class="" style="float:left; background-color:7911FF; width:100%; height:5%">
  <div>
   <span class="dot" style="background-color:red"></span>
   <span class="dot" style="background-color:yellow"></span>
@@ -81,7 +83,7 @@ body, html {
 	
 	
 	
- <div style="float:right; width:100px; height:50px; margin-top:7%; ">
+ <div style="float:right; width:200px;  margin-top:7%; ">
 				
 			
 <span class="fa fa-star checked"></span>

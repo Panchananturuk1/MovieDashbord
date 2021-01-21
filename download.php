@@ -79,6 +79,20 @@ body, html {
 	
 	</div >
 	
+	
+	
+ <div style="float:right; width:100px; height:50px; margin-top:7%; ">
+				
+			
+<span class="fa fa-star checked"></span>
+<span class="fa fa-star checked"></span>
+<span class="fa fa-star checked"></span>
+<span class="fa fa-star"></span>
+<span class="fa fa-star"></span>
+
+	  </div>
+	
+	
 	<div style="float:left; width:40%; margin-top:7%; margin-left:2%;">
 	
 	 
@@ -112,16 +126,7 @@ body, html {
 	  </div>
 	  
 	  
-	 <div style="float:right;">
-				
-			
-<span class="fa fa-star checked"></span>
-<span class="fa fa-star checked"></span>
-<span class="fa fa-star checked"></span>
-<span class="fa fa-star"></span>
-<span class="fa fa-star"></span>
 
-	  </div>
 	  
 	  
 	  
